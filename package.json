@@ -1,0 +1,17 @@
+{
+  "name": "metaflickr",
+  "version": "0.0.1",
+  "description": "Metaflickr, Michael's tool for updating metadata",
+  "main": "bin/metaflickr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "photography"
+  ],
+  "author": "Michael Johnson <apertome@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "flickrapi": "~0.6.0"
+  }
+}
